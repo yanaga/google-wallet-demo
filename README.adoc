@@ -1,0 +1,3 @@
+# Welcome to this Google Wallet Demo
+
+link:https://pay.google.com/save/a[Add to Google Wallet]
